@@ -43,6 +43,8 @@ hr {
     min-width: 140px;
     border-radius: 0.5rem;
     padding: 0.5rem 1rem 0.5rem 1rem;
+    display: block;
+    margin-bottom: 1rem;
 }
 
 .secondary-link {
