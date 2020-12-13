@@ -135,13 +135,14 @@ hr {
 
 .unordered {
     list-style: none;
+    
 }
 
 .list-inline li {
-    display: inline;
+    display: inline-block;
     padding: 0rem 0.5rem;
-}
 
+}
 
 .footer {
     background-color: var(--primary);
@@ -158,6 +159,7 @@ hr {
 
 .footer ul {
     padding-inline-start: 0px;
+    
 }
 .circled-text{
     font-size: larger;
